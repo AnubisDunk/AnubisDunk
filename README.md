@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alexander aka @AnubisDunk
 - 👀 I’m interested in 3D Modeling and Texturing, Programming 
-- 🌱 I’m currently learning React.js
 - 📫 alex.bar.dev@gmail.com
 
 <!---
